@@ -548,6 +548,7 @@ from .dropbox import DropboxIE
 from .dropout import (
     DropoutIE,
     DropoutSeasonIE,
+    DropoutShowIE,
 )
 from .drtuber import DrTuberIE
 from .drtv import (
